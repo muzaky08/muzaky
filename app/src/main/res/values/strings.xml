@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My App</string>
+    <!-- Bottom Navigation -->
+    <string name="nav_biodata">Biodata</string>
+    <string name="nav_education">Pendidikan</string>
+    <string name="nav_activity">Aktivitas</string>
+    <!-- Toolbar -->
+    <string name="toolbar_title">Portofolio Pribadi</string>
+    <!-- Biodata -->
+    <string name="biodata_title">Biodata</string>
+    <string name="biodata_name">Nama</string>
+    <string name="biodata_value_name">Muhamad Zaky Nurfaiz</string>
+    <string name="biodata_role">Desainer &amp; Operator</string>
+    <string name="biodata_address">Alamat</string>
+    <string name="biodata_value_address">Kemiri, Tangerang, Banten</string>
+    <string name="biodata_email">Email</string>
+    <string name="biodata_value_email">zakynurfaiz08@gmail.com</string>
+    <string name="biodata_phone">No. HP</string>
+    <string name="biodata_value_phone">085890275879</string>
+    <string name="biodata_status">Status</string>
+    <string name="biodata_value_status">Mahasiswa aktif dan staff di SMK Yarsi Medika bagian operator Dapodik</string>
+    <string name="biodata_skills">Keahlian</string>
+    <string name="biodata_skill_office">Microsoft Office</string>
+    <string name="biodata_skill_html">HTML</string>
+    <string name="biodata_skill_css">CSS</string>
+    <string name="biodata_skill_python">Python</string>
+    <string name="biodata_skill_php">PHP</string>
+    <string name="biodata_skill_js">JavaScript</string>
+    <!-- Education -->
+    <string name="education_title">Riwayat Pendidikan</string>
+    <string name="edu_mi">MI MA Klebet II (2009 – 2012)</string>
+    <string name="edu_mts">MTS Daarul Hikmah (2015 – 2018)</string>
+    <string name="edu_sma">SMA Nusantara Unggul (2018 – 2021)</string>
+    <string name="edu_univ">Universitas Yatsi Madani (2023 – Sekarang)</string>
+    <!-- Activity -->
+    <string name="activity_title">Aktivitas Harian</string>
+    <string name="activity_1">05:00 – Bangun tidur</string>
+    <string name="activity_2">06:30 – Sarapan</string>
+    <string name="activity_3">07:00 – Kerja</string>
+    <string name="activity_4">12:00 – Istirahat</string>
+    <string name="activity_5">13:00 – Lanjut aktivitas</string>
+    <string name="activity_6">18:00 - kuliah</string>
+    <string name="activity_7">22:00 - Istirahat</string>
+    <string name="activity_8">05:00 - Bangun pagi &amp; sholat</string>
+
+    <string name="about_me_title">Tentang Saya</string>
+    <string name="about_me_desc">Saya adalah mahasiswa aktif di Universitas Yatsi Madani prodi Ilmu Komputer, dan saya bekerja di SMK Yarsi Medika pada bagian operator Dapodik. Saya juga memiliki hobi bermain bola dan menggambar.</string>
+</resources>
